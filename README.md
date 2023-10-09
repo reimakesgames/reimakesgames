@@ -1,21 +1,19 @@
 # Hello! My name is reimakesgames!
 
-I program games in Luau and C#. I make music in FL Studio and LMMS. I also make art in FireAlpaca and Ibispaint X.
+15 year old achiever, makes music, art, low poly blender animations, and literally anything
 
 ## Skills and Projects
 
-My programming expertise is mostly in Luau, but I do know a bit of JS. I am currently learning C#.
+LuaU, Typescript
 
-I am currently working on a mega project similar to VALORANT named [AIMLESS](https://github.com/reimakesgames/hybrid-conflict)
-
-I am also working on a game called [Misadventure](https://youtube.com/watch?v=dQw4w9WgXcQ) in Godot with C#. Have fun connecting the dots~
+Making an indie developed RPG, Turn Based, Visual Novel, Strategy game similar to `Aselia The Eternal -Spirit of the Eternity Sword-` with my own HTML5 game engine
 
 ## Socials and Contact
 
 [Email](mailto:reimakesgames.dev@gmail.com)
+[Twitter](https://twitter.com/reimakesgames)
+[Bluesky](https://bsky.app/profile/reimakesgames.bsky.social)
+[Instagram](https://instagram.com/reimakesgames)
 
 [YouTube](https://youtube.com/@reimakesgames)
-
-[GitHub](https://github.com/reimakesgames)
-
 [Roblox](https://www.roblox.com/users/309302130/profile)
