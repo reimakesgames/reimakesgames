@@ -11,9 +11,15 @@ Making an indie developed RPG, Turn Based, Visual Novel, Strategy game similar t
 ## Socials and Contact
 
 [Email](mailto:reimakesgames.dev@gmail.com)
+
 [Twitter](https://twitter.com/reimakesgames)
+
 [Bluesky](https://bsky.app/profile/reimakesgames.bsky.social)
+
 [Instagram](https://instagram.com/reimakesgames)
 
+---
+
 [YouTube](https://youtube.com/@reimakesgames)
+
 [Roblox](https://www.roblox.com/users/309302130/profile)
