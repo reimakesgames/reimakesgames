@@ -1,6 +1,6 @@
-# Hello! My name is reimakesgames!
+# Hello! My name is Rei!
 
-16 year old achiever, makes music, art, low poly blender animations, and literally anything.
+17 year old, makes code, music, art, and anything realy.
 
 ## Skills and Projects
 
@@ -14,7 +14,7 @@ Making an indie developed RPG, Turn Based, Visual Novel, Strategy game similar t
 
 [Twitter](https://twitter.com/reimakesgames)
 
-[Bluesky](https://bsky.app/profile/reimakesgames.bsky.social)
+[Bluesky](https://bsky.app/profile/reicaffie.com)
 
 [Instagram](https://instagram.com/reimakesgames)
 
