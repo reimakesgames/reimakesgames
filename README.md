@@ -1,6 +1,6 @@
 # Hello! My name is Rei!
 
-17 year old, makes code, music, art, and anything realy.
+18 year old, makes code, music, art, and anything realy.
 
 ## Skills and Projects
 
